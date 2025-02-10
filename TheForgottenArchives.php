@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<!--
+    Linear by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+<head>
+        <title>MaxZorin44456 | The Forgotten Archives</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,700,500,900' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" href="http://maxzorin44456.com/favicon.ico"/>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script src="js/skel.min.js"></script>
+        <script src="js/skel-panels.min.js"></script>
+        <script src="js/init.js"></script>
+        <noscript>
+            <link rel="stylesheet" href="css/skel-noscript.css" />
+            <link rel="stylesheet" href="css/style.css" />
+            <link rel="stylesheet" href="css/style-desktop.css" />
+        </noscript>
+    </head>
+    <body>
+
+    <?php include'includes/header.php';?>
+    <!-- Main -->
+        <div id="main">
+            <div id="content" class="container">
+                <section>
+                    <header>
+                        <h2>The Forgotten Archives</h2>
+                        <span class="byline">The Final Resting Place of Old Projects...</span>
+                    </header>
+                    <p><b>Minecraft:</b> Numerous attempts at Elywof City and the greater Zakros Empire were attempted before I finally settled on the current map that is being worked on today - several of them fell to the wayside following updates to terrain generation within Minecraft that occurred before I had started using Bukkit/VoxelSniper. I have a few left over which have managed to survive to this day via old backups which I have updated to run off of the most recent version of Minecraft. You can also find a copy of the first ever "world" I created when I first bought and played Minecraft. These are available for download below.
+                        <li><a href="http://www.mediafire.com/download/l0kibear66203a2/MaxZorin44456%27s_First_World.rar" target="_blank">2011 My First Ever Map (Updated To Run On Version 1.9)</a> </li>
+                        <li><a href="http://www.mediafire.com/file/t4uvc2ea9g9i0be/Old_Minecraft_Pictures.rar" target="_blank">2011 Minecraft Images (You don't need Minecraft for these.)</a> </li>
+                        <li><a href="http://www.mediafire.com/download/xj8vzdzcjfo5com/2011_Elywof_City_Map.rar" target="_blank">2011 Elywof City Map (Updated To Run On Version 1.8.9)</a> </li>
+                        <li><a href="http://www.mediafire.com/file/e17x9c02bwpr3mq/2011_Elywof_City_Osinwar_Droff_Wharf_and_Arcadia.rar" target="_blank">2011 Elywof City Osinwar Droff Wharf and Arcadia (Updated To Run On Version 1.12.1)</a> </li>
+                        <li><a href="http://www.mediafire.com/download/wxd3fy9rtc1i23b/2012_Elywof_City_%26_Osinwar_Map.rar" target="_blank">2012 Elywof City & Osinwar Map (Updated To Run On Version 1.9)</a> </li>
+                        <li><a href="http://www.mediafire.com/download/wxd3fy9rtc1i23b/2012_Elywof_City_%26_Osinwar_Map.rar" target="_blank">2012 Elywof City & Osinwar Map (Updated To Run On Version 1.9)</a> </li>
+                        <li><a href="http://www.mediafire.com/file/r2k18fazl274sny/2013_McMoney_Building_New.rar" target="_blank">2013 "New" McMoney Building (Updated To Run On Version 1.9)</a> </li>
+                        
+                    </p>
+                    <p><p><b>Project Zomboid:</b> I began work on turning the office in Muldraugh using the "Hydrocraft" and "Cars" mod into a reasonably half decent fortress kitted out with all of the amenities of the day you could ever hope for - unfortunately "Fort Scott" was, for the most part, lost following a HDD failure and due to sloppy backups a lot of the progress was lost. As a result, the garage and rear extension were lost however a majority of the interior and some exterior work concerning securing the carpark was retained. As I've currently lost interest in pursuing progress with "Fort Scott" I've decided to upload it here.</p>
+                    <li><a href="http://www.mediafire.com/file/pg01yezhwimt4gj/Max%27s_Zombilicious_Fun_Time.rar" target="_blank">2016 Fort Scott (May require Hydrocraft & Cars Mod to function correctly.)</a> </li>                            
+
+                </section>
+            </div>
+        </div>
+    <!-- /Main -->
+
+    <?php include'includes/footer.php';?>
+
+
+    </body>
+</html>
