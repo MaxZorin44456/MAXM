@@ -1,0 +1,20 @@
+DirectoryIndex index.php maintenance.php
+ErrorDocument 404 /notfound.php
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
+
+RewriteCond %{HTTPS} off
+RewriteCond %{REQUEST_URI} /login.php
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L]
+RewriteCond %{HTTPS} off
+RewriteCond %{REQUEST_URI} /register.php
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L]
+ErrorDocument 404 /notfound
+
+#RewriteEngine On
+#RewriteBase /
+#RewriteCond %{REQUEST_URI} !^/maintenance\.php$
+#RewriteRule ^(.*)$ http://%{HTTP_HOST}/maintenance.php [R=307,L]
